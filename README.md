@@ -2,6 +2,15 @@
 
 ## GIS: Geographic Information System
 
+## GeoJSON Geometry Types
+
+- Point
+- LineString
+- Polygon
+- MultiPoint
+- MultiLineString
+- MultiPolygon
+
 ## Mapshaper
 Info
 ```
